@@ -1,0 +1,4 @@
+@comment $NetBSD$
+bin/sysrc
+@pkgdir share/examples/sysrc
+@pkgdir share/examples/rc.d

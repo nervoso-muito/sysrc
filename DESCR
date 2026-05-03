@@ -1,0 +1,3 @@
+this is sysrc
+a command to update /etc/rc.conf
+the same way it does inb FreeBSD
